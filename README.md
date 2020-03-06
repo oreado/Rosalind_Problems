@@ -1,2 +1,2 @@
 # Rosalind_Problems
-Every day rosalind problems.
+Daily rosalind problems.
